@@ -1,0 +1,46 @@
+h3{
+    color: blue;
+    font-size: 18px;
+}
+
+.firstSection{
+font-size: 14px;
+color: green;
+font-weight: bold;
+font-style: italic;
+border-style:ridge;
+border-color: red;
+padding-left: 20px;
+padding-right: 20;
+padding-top: 20px;
+padding-bottom: 20px;
+margin: 80px;
+}
+.secondSection{
+    font-size: 14px;
+color: red;
+font-weight: bold;
+font-style: italic;
+border-style:dashed;
+border-color:purple;
+padding-left: 20px;
+padding-right: 20;
+padding-top: 20px;
+padding-bottom: 20px;
+margin: 80px;
+
+}
+.thirdSection{
+    font-size: 14px;
+color: blue;
+font-weight: bold;
+font-style: italic;
+border-style:double;
+border-color:orangered;
+padding-left: 20px;
+padding-right: 20;
+padding-top: 20px;
+padding-bottom: 20px;
+margin: 80px;
+
+}
